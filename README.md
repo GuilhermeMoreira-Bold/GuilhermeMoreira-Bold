@@ -1,5 +1,11 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-Bold)](https://github.com/GuilhermeMoreira-Bold/GuilhermeMoreira-Bold)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-Bold&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-Bold&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-Bold&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMoreira-Bold=GuilhermeMoreira-Bold)](https://github.com/GuilhermeMoreira-Bold/GuilhermeMoreira-Bold)
+
+
 
 <!--
 **GuilhermeMoreira-Bold/GuilhermeMoreira-Bold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
