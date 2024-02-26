@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi I'm Guigo! ;) 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMoreira-Bold&show_icons=true&theme=catppuccin_mocha )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMoreira-Bold&repo=GuilhermeMoreira-Bold)](https://github.com/GuilhermeMoreira-Bold/GuilhermeMoreira-Bold)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMoreira-Bold&layout=compact&show_owner=true)](https://github.com/GuilhermeMoreira-Bold/GuilhermeMoreira-Bold)
 
